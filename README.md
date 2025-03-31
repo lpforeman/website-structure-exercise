@@ -1,2 +1,3 @@
 # website-structure-exercise
-example of website structure
+
+Using this repo to practice HTML.
